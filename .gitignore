@@ -51,4 +51,4 @@ contrib/*/test-output
 contrib/asdf/asdf-upstream
 contrib/sb-cover/test-output
 doc/manual/*.html
-version.lisp-expr
+#version.lisp-expr
